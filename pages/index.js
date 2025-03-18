@@ -7,7 +7,7 @@ export default function Home() {
             <Head>
                 <title>SB‑MIDI Player</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
-                <link rel="stylesheet" href="/style.css" />
+                <link rel="stylesheet" href="/styles/style.css" />
             </Head>
             <div className="container">
                 <nav className="navbar">
